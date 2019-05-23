@@ -10,6 +10,12 @@ header{
     color:#333;
     height:100px;
 }
+nav{
+    background:#c6e4e4;
+    padding:20px;
+    color:#333;
+    height:100px;
+}
 #leftside{
     background-color: #888;
     color: white;
@@ -18,9 +24,20 @@ header{
     height:200px; 
 }
 
-#division{background-color: #888;
-    padding: 20px
+aside{
+            float: none
+            background:#acc;
+            padding:20px;
+            color:#333;
+            height:100px;
+      }
+  
+#h1Text {
+    background-color:black;
+    width: 50 px; 
+    margin-left: 25px;
+    margin-top: 25px; 
+    margin-right: 25px;
 }
-aside{background-color:#fff;height: 200px;float: right}
 
-footer{clear: both;padding: 20px;background-color: #ccc;}
+footer{clear: both;padding: 20px; height: 40 px; width= 40px;background-color: #ccc;}
