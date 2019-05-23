@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    text-align: center
+}
+
+body { font-size: 24px}
+header{
+    background:#acc;
+    padding:20px;
+    color:#333;
+    height:100px;
+}
+#leftside{
+    background-color: #888;
+    color: white;
+    width: 50%; 
+    float: left;
+    height:200px; 
+}
+
+#division{background-color: #888;
+    padding: 20px
+}
+aside{background-color:#fff;height: 200px;float: right}
+
+footer{clear: both;padding: 20px;background-color: #ccc;}
